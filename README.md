@@ -1,4 +1,4 @@
-Langchain_Implementation_Text
+# Langchain_Implementation_Text
 
 Basic RAG Implementation using Langchain and only passing Text. Using gemini gemini-2.5-flash llm model and HuggingFace model sentence-transformers/all-MiniLM-L6-v2 for embedding
 
